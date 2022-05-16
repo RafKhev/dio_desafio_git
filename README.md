@@ -1,2 +1,2 @@
-# dio_desafio_git
-Desafio do bootcamp DIO do curso de Git
+# Repo utilizado para o desafio do Curso de Git 
+Bootcamp DIO
