@@ -5,10 +5,10 @@
 | dir | ls | Mostra o conteúdo de um diretório |
 | cd [caminho] | cd [caminho] | Muda o diretório |
 | cls | clear | limpa a tela do terminal |
-| echo  | mostra texto no terminal |
-| mkdir | cria um diretório (pasta) |
-| rmdir /s /q rm -rf | apaga um diretório e seus conteudos |
-| mv | move um arquivo para outra pasta |
+| echo  | | mostra texto no terminal |
+| mkdir | | cria um diretório (pasta) |
+| rmdir /s /q rm -rf | |  apaga um diretório e seus conteudos |
+| mv | | move um arquivo para outra pasta |
 
 ## Comandos do Git
 
